@@ -1,13 +1,3 @@
-<div align="center">
-    <img width="150" alt="ai-picture" src="https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png" />
-<!-- ![ai-picture](https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png) -->
-    <h1>1000 AI collection tools</h1>
-    <i>More than 1000 Artificial Intelligence AI-powered tools</i>
-    <br />
-    <i>categorized & updated 08 Feb. 2023 </i>
-    <br />
-</div>
-
 
 ## Index
 
